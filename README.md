@@ -11,7 +11,7 @@
 
 B 站挂机实用脚本，[>> 点此返回 PHP 旧版](https://github.com/metowolf/BilibiliHelper/tree/0.9x)
 
-## 功能组件
+## 功能组件描述
 
 |plugin      |version  |description   |
 |------------|---------|--------------|
